@@ -41,4 +41,4 @@ I'm a **Full-Stack Developer** obsessed with efficiency. I don't just write code
 * 📧 **Email:** [fabiluisibarra@gmail.com](mailto:fabiluisibarra@gmail.com)
 
 ---
-<p align="center">"Move fast, build things that scale, and automate the rest."</p>
+<p align="center">"Debug the frustration, master the persistence. Success is just a series of errors handled with consistency."</p>
